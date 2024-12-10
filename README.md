@@ -62,3 +62,26 @@
 
 ### 6.9 Communication et Formation
 - **Formation Régulière**: Les chauffeurs et employés reçoivent une formation régulière sur les sujets de conformité. L'entreprise assure une communication claire des politiques et des mises à jour.
+
+## 7. Utilisation de la Géolocalisation
+
+### 7.1 Collecte et Traitement des Données de Géolocalisation
+- **Suivi des Trajets**: JAMBO utilise des données de géolocalisation pour suivre les trajets des chauffeurs en temps réel, assurer une expérience utilisateur fluide, optimiser les itinéraires et améliorer la sécurité.
+- **Consentement des Utilisateurs**: La collecte des données de géolocalisation est soumise au consentement explicite des utilisateurs, conformément aux réglementations sur la protection des données.
+- **Stockage Sécurisé**: Les données de localisation sont stockées de manière sécurisée et ne sont utilisées que pour les finalités mentionnées dans cette politique.
+
+### 7.2 Utilisation des Données
+- **Optimisation des Services**: Les données de géolocalisation permettent d'optimiser les correspondances entre chauffeurs et passagers, de prévoir les délais estimés d'arrivée (ETA), et d'offrir un service de haute qualité.
+- **Sécurité**: La géolocalisation est utilisée pour assurer la sécurité des trajets en permettant une assistance rapide en cas d'incident.
+- **Analyse Statistique**: Les données anonymisées peuvent être utilisées pour analyser les tendances de déplacement et améliorer les services.
+
+### 7.3 Partage des Données de Localisation
+- **Partage Limité**: Les données de géolocalisation ne sont partagées qu'avec des tiers dans le cadre de la prestation des services, tels que les systèmes de navigation ou les autorités compétentes, en cas de nécessité légale.
+- **Respect de la Vie Privée**: JAMBO s'engage à ne jamais vendre ou exploiter les données de localisation à des fins commerciales non liées à la prestation de ses services.
+
+### 7.4 Droits des Utilisateurs
+- **Contrôle et Suppression**: Les utilisateurs ont le droit d'accéder à leurs données de géolocalisation, de demander leur suppression ou de retirer leur consentement à tout moment.
+- **Options de Désactivation**: Les utilisateurs peuvent désactiver le partage de leur géolocalisation à partir des paramètres de leur application, bien que cela puisse affecter certaines fonctionnalités des services.
+
+### 7.5 Conformité Réglementaire
+- **Réglementations Applicables**: JAMBO respecte les lois locales et internationales concernant l'utilisation des données de géolocalisation, garantissant un traitement conforme et transparent des informations sensibles.
